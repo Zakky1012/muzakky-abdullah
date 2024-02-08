@@ -1,0 +1,347 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-vCD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ebe7eb;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 {
+  margin-bottom: 15.9rem;
+  box-sizing: border-box;
+  padding: 0rem 54.9rem 0rem 16rem;
+  width: 100%;
+  height: 64.3rem;
+  display: flex;
+  align-items: flex-start;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1.png');
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .fotolinkedin-removebg-preview-1-vNZ {
+  margin-right: 1rem;
+  width: 27.5rem;
+  height: 61.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV {
+  margin-top: 2.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV .frame-1-jau {
+  margin-bottom: 17.5rem;
+  display: flex;
+  column-gap: 5.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV .frame-1-jau .home-exm {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV .frame-1-jau .about-Lqb {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV .frame-1-jau .github-Gz9 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV .frame-1-jau .contact-bWd {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV .hi-im-muzakky-abdullah-8Ff {
+  margin-right: 6.9rem;
+  max-width: 37.7rem;
+  font-size: 10rem;
+  font-weight: 700;
+  line-height: 0.9;
+  color: #000000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-rgep-HS5 .auto-group-waqz-bzV .hi-im-muzakky-abdullah-8Ff .hi-im-muzakky-abdullah-8Ff-sub-1 {
+  font-size: 10rem;
+  font-weight: 700;
+  line-height: 0.9;
+  color: #ff0000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+}
+.desktop-1-vCD .auto-group-fauc-wVw {
+  margin: 0rem 24.1rem 16.5rem 16rem;
+  width: calc(100% - 40.1rem);
+  height: 41.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-fauc-wVw .rectangle-3-pJq {
+  margin-right: 3.3rem;
+  width: 55rem;
+  height: 41.1rem;
+  position: relative;
+  background-size: 102.619% 200.73%;
+  background-position: -0.2402rem -7.4864rem;
+  background-image: url('../assets/rectangle-3.png');
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-fauc-wVw .frame-3-py3 {
+  margin: 2.5rem 0rem 2.4rem 0rem;
+  width: 45.6rem;
+  height: calc(100% - 4.9rem);
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-fauc-wVw .frame-3-py3 .auto-group-vu16-6vZ {
+  margin: 0rem 24.4rem 1.5rem 0rem;
+  width: calc(100% - 24.4rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-1-vCD .auto-group-fauc-wVw .frame-3-py3 .auto-group-vu16-6vZ .rectangle-4-a53 {
+  margin-right: 1.5rem;
+  width: 1rem;
+  height: 5rem;
+  background-color: #ff0000;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-fauc-wVw .frame-3-py3 .auto-group-vu16-6vZ .about-me-gds {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .auto-group-fauc-wVw .frame-3-py3 .now-me-pursuing-an-undergraduate-degree-majoring-in-informatics-engineering-information-systems-s1-at-stmik-mardira-indonesia-apart-from-that-i-have-the-ability-to-operate-microsoft-office-and-also-master-several-programming-languages-namely-php-java-javascript-python-and-c-and-i-can-also-quickly-adapt-to-new-people-and-also-be-oriented-to-the-work-being-undertaken-Ddo {
+  margin-bottom: 6.2rem;
+  max-width: 45.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.7000000477;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-vCD .auto-group-fauc-wVw .frame-3-py3 .frame-2-wy7 {
+  border-radius: 4rem;
+  width: 12.6rem;
+  height: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fd0000;
+}
+.desktop-1-vCD .frame-12-p1K {
+  box-sizing: border-box;
+  padding: 3.3rem 16.378rem 3.3rem 16rem;
+  width: 100%;
+  height: 32.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .frame-12-p1K .frame-11-GP7 {
+  margin: 0.4rem 65.8rem 0rem 0rem;
+  width: 34.9rem;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .frame-12-p1K .frame-11-GP7 .ready-to-work-with-me-PyX {
+  margin-bottom: 4.1rem;
+  max-width: 30.3rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+}
+.desktop-1-vCD .frame-12-p1K .frame-11-GP7 .ready-to-work-with-me-PyX .ready-to-work-with-me-PyX-sub-1 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ff0000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+}
+.desktop-1-vCD .frame-12-p1K .frame-11-GP7 .ready-to-work-with-me-PyX .ready-to-work-with-me-PyX-sub-2 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ff0000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+}
+.desktop-1-vCD .frame-12-p1K .frame-11-GP7 .auto-group-9yig-1dX {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.desktop-1-vCD .frame-12-p1K .frame-11-GP7 .auto-group-9yig-1dX .email-1-MSV {
+  margin-right: 2rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .frame-12-p1K .frame-11-GP7 .auto-group-9yig-1dX .muzakkyabdullah93gmailcom-TEd {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #363636;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .frame-12-p1K .frame-10-YG5 {
+  margin-bottom: 20.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .frame-12-p1K .frame-10-YG5 .linkedin-1-VSD {
+  margin-right: 2rem;
+  width: 3.9216rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-vCD .frame-12-p1K .frame-10-YG5 .instagram-1-c13 {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.btn {
+  background-color: red;
+  color: white;
+  text-transform: uppercase;
+  font-family: Saira Condensed, 'Source Sans Pro';
+  display: inline-block;
+  border-radius: 4rem;
+  font-size: 1.6rem;
+  padding: 1rem 2.8rem;
+  margin: 20px 200px;
+}
+
+.frame-2-wy7 a{
+  font-family: Saira Condensed, 'Source Sans Pro';
+  color: white;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.portfolio{
+  box-sizing: border-box;
+  padding: 3.3rem 16.378rem 3.3rem 16rem;
+  width: 100%;
+  height: 32.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #4e4e4e;
+  flex-shrink: 0;
+}
+
+.my-portfolio {
+  margin: auto;
+  color: white;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+  display: block;
+  color: #ff0000;
+  font-family: Saira Condensed, 'Source Sans Pro';
+}
+
+.portfolio-container{
+  margin: auto;
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: auto;
+}
+
+.portfolio-box h3{
+  margin: auto;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  display: block;
+  font-family: Saira Condensed, 'Source Sans Pro'; 
+}
+
+.portfolio-container .portfolio-box{
+  flex: 1 1 30rem;
+}
+
+@media screen and (max-width: 1000px){
+  
+}

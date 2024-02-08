@@ -1,0 +1,106 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 72.6rem;
+}.frame-9-AZb {
+  box-shadow: 0 0.4rem 7.2rem rgba(0, 0, 0, 0.25);
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+  padding: 1.5rem 12.4rem 2.4rem 11.45rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  .frame-4-fFT {
+    margin: 1rem 6.9rem 0rem 0rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .analysis-1-buo {
+      margin: 0rem 0.1rem 1.6rem 0rem;
+      width: 5rem;
+      height: 5rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .data-analyst-XHf {
+      font-weight: 700;
+      line-height: 1.7000000477;
+      text-transform: uppercase;
+      color: #171717;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.6rem;
+    }
+  }
+  .frame-6-e7P {
+    flex-shrink: 0;
+    margin-right: 7.95rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .office-1-Pqf {
+      margin-bottom: 1rem;
+      width: 5rem;
+      height: 5rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .microsoft-office-LF7 {
+      font-weight: 700;
+      color: #171717;
+      font-size: 1.6rem;
+      text-align: center;
+      line-height: 1.7000000477;
+      text-transform: uppercase;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+      max-width: 10.1rem;
+    }
+  }
+  .frame-8-qxZ {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 12.7rem;
+    align-items: center;
+
+    .development-1-bgq {
+      margin-bottom: 2.2rem;
+      width: 5rem;
+      height: 5rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .software-engineering-wEu {
+      font-weight: 700;
+      line-height: 1.7000000477;
+      flex-shrink: 0;
+      text-transform: uppercase;
+      color: #171717;
+      font-family: Inter, 'Source Sans Pro';
+      max-width: 11rem;
+      text-align: center;
+      font-size: 1.6rem;
+    }
+  }
+}
